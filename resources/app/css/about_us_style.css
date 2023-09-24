@@ -1,0 +1,107 @@
+/* 
+========================
+      BUTTON THREE
+========================
+*/
+.default_btn:hover {
+  cursor: pointer;
+}
+.default_btn {
+  background: transparent;
+  outline: none;
+  position: relative;
+  border: 1px solid #fff;
+  padding: 12px 15px;
+  overflow: hidden;
+  /* font-family: "Merriweather", serif;  */
+}
+/*button:before (attr data-hover)*/
+.default_btn:hover:before {
+  opacity: 1;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f054";
+  font-size: 13px;
+  transform: translate(0, 0);
+}
+.default_btn:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f054";
+  position: absolute;
+  top: 1.1em;
+  left: 0;
+  width: 100%;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-size: 0.8em;
+  opacity: 0;
+  text-transform: capitalize !important;
+  transform: translate(-100%, 0);
+  transition: all 0.3s ease-in-out;
+  color: #fff;
+}
+
+.default_btn_black {  
+  border: 1px solid #182748;
+}
+.default_btn_black:before {
+  color: #182748;
+}
+.default_btn_black div {
+  color: #182748 !important;
+}
+
+.default_btn_dark {
+  border: 1px solid #182748;
+  background: #182748;
+}
+.default_btn_dark:before {
+  color: #fff;
+}
+.default_btn_dark div {
+  color: #fff !important;
+}
+
+/*button div (button text before hover)*/
+.default_btn:hover div {
+  opacity: 0;
+  transform: translate(100%, 0);
+}
+.default_btn div {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-size: 0.8em;
+  text-transform: capitalize !important;
+  transition: all 0.3s ease-in-out;
+  padding-top: 2px;
+  color: #fff;
+}
+
+
+
+.underline_hover_links{
+  position: relative;
+}
+
+.underline_hover_links:after{
+  content: '';
+  position: absolute;
+  width: 0; 
+  height: 1px;
+  display: block;
+  margin-top: 1px;
+  right: 0;
+  background: #fff;
+  transition: width .4s ease;
+  -webkit-transition: width .4s ease;
+}
+ 
+.underline_hover_links:hover:after{
+  width: 100%;
+  left: 0;
+  background: #fff;
+  cursor: pointer;
+}

@@ -1,0 +1,81 @@
+/*====================================*/
+
+/*        -EMIRATES GRAPHIC-          */
+
+/*        emiratesgraphic.com         */
+
+/*====================================*/
+
+/*====================*/
+/*       FONTS        */
+/*====================*/
+*:focus {
+  outline: none !important;
+}
+@font-face {
+  font-family: "Merriweather", serif;
+}
+@font-face {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 30px;
+}
+.title {
+  font-family: "Merriweather", serif;
+  font-size: 46px;
+  font-weight: bolder;
+  line-height: 55px;
+}
+button:active {
+  outline: none !important;
+}
+button:focus {
+  outline: none !important;
+}
+input:active {
+  outline: none !important;
+}
+input:focus {
+  outline: none !important;
+}
+
+a button:hover {
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+textarea:active {
+  outline: none !important;
+}
+textarea:focus {
+  outline: none !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.no_padding {
+  padding: 0px !important;
+}
+
+.small_padding-lr {
+  padding: 0px 5px !important;
+}
+
+.hr_default {
+  width: 150px;
+  margin: 15px 0px;
+  border-top: solid 2px #bbac78;
+}

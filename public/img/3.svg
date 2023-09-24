@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="125" viewBox="0 0 125 125">
+  <g id="_3" data-name="3" transform="translate(-1363 -2116)">
+    <g id="Ellipse_78" data-name="Ellipse 78" transform="translate(1363 2116)" fill="#f8f3f1" stroke="#707070" stroke-width="1">
+      <circle cx="62.5" cy="62.5" r="62.5" stroke="none"/>
+      <circle cx="62.5" cy="62.5" r="62" fill="none"/>
+    </g>
+    <g id="chronometer_1_" data-name="chronometer (1)" transform="translate(1383.129 2145.717)">
+      <path id="Path_798" data-name="Path 798" d="M182,34.366a25.2,25.2,0,1,0,27.493-25.1V4.582h4.582V0H200.329V4.582h4.582V9.269A25.236,25.236,0,0,0,182,34.366Zm45.821,0a20.62,20.62,0,1,1-20.62-20.62A20.643,20.643,0,0,1,227.821,34.366Zm0,0" transform="translate(-154.202)" fill="#61697f"/>
+      <path id="Path_799" data-name="Path 799" d="M332,120v18.329h18.329v-4.582H336.582V120Zm0,0" transform="translate(-281.291 -101.672)" fill="#61697f"/>
+      <path id="Path_800" data-name="Path 800" d="M0,210H18.634v4.582H0Zm0,0" transform="translate(0 -177.925)" fill="#61697f"/>
+      <path id="Path_801" data-name="Path 801" d="M30,120H48.634v4.582H30Zm0,0" transform="translate(-25.418 -101.672)" fill="#61697f"/>
+      <path id="Path_802" data-name="Path 802" d="M30,300H48.634v4.582H30Zm0,0" transform="translate(-25.418 -254.179)" fill="#61697f"/>
+    </g>
+  </g>
+</svg>

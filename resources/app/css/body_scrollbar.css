@@ -1,0 +1,133 @@
+/* Let's get this party started */
+body::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #fff; 
+    /*-webkit-border-radius: 10px;*/
+    /*border-radius: 10px;*/
+    background: #fff;
+}
+ 
+/* Handle */
+body::-webkit-scrollbar-thumb {
+    /*-webkit-border-radius: 10px;*/
+    /*border-radius: 10px;*/
+    background: #292b2c; 
+    -webkit-box-shadow: inset 0 0 6px transparent; 
+}
+
+/* Carousel */
+
+.carousel-item {
+  height: 100vh;
+  overflow: hidden;
+}
+.carousel-item img {
+  width: 100%;
+  height: 110vh;
+  object-fit: cover;
+  object-position: right;
+}
+.carousel-caption {
+  top: 34vh;
+  text-align: left;
+  width: 43% !important;
+}
+.carousel-caption .title {
+  font-size: 46px;
+  line-height: 60px;
+  color: #F0E5E1;
+}
+.carousel-caption p {
+  color: #F0E5E1;
+}
+.carousel-control-next, .carousel-control-prev {
+  height: 5%;
+  top: auto;
+  width: 5%;
+  background: #F0E5E1;
+  opacity: 0.5;
+  color: black;
+  transition: ease all 0.3s;
+}
+.carousel-control-next:hover, .carousel-control-prev:hover {
+  color: black;
+  opacity: 1.5;
+  transition: ease all 0.3s;
+}
+.carousel-control-next {
+  left: 20%;
+}
+.carousel-control-prev {
+  left: 15%;
+}
+
+.owl-dots {
+  counter-reset: dots;
+}
+.owl-dot:before {
+  counter-increment:dots;
+  content: counter(dots);
+}
+
+/* Popup Modal */
+.modal-dialog {
+  max-width: 580px;
+}
+.app_modal_gen {
+  background: #18274856;
+}
+.app_modal_gen .modal-content {
+  background: #182748;
+  color: white;
+  padding: 30px 10px;
+}
+.modal-header {
+  flex-wrap: wrap;
+  align-items: center;
+  border: none;
+  justify-content: center;
+}
+.app_modal_gen h5 {
+  width: 100%;
+  font-family: "Merriweather", serif;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+.modal-header .close {
+  position: absolute;
+  right: 9px;
+  top: 10px;
+  color: white;
+}
+.modal-footer {
+  border: none;
+}
+
+.modal-body input {
+  width: 100%;
+  height: 50px;
+  background: none;
+  border: transparent;
+  color: #F3E9D7;
+  margin: 5px 0px;
+  border-bottom: solid 1px #F3E9D7;
+}
+
+.modal-body textarea {
+  width: 100%;
+  background: none;
+  border: transparent;
+  color: #F3E9D7;
+  margin: 5px 0px;
+  border-bottom: solid 1px #F3E9D7;
+}
+
+.app_modal_gen button {
+  width: 100%;
+}

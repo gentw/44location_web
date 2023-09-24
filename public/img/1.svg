@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="125" viewBox="0 0 125 125">
+  <g id="_1" data-name="1" transform="translate(-429 -2116)">
+    <g id="Ellipse_70" data-name="Ellipse 70" transform="translate(429 2116)" fill="#f8f3f1" stroke="#61697f" stroke-width="1">
+      <circle cx="62.5" cy="62.5" r="62.5" stroke="none"/>
+      <circle cx="62.5" cy="62.5" r="62" fill="none"/>
+    </g>
+    <g id="bullseye" transform="translate(461.092 2150.088)">
+      <g id="Group_1506" data-name="Group 1506" transform="translate(0.005 8.111)">
+        <g id="Group_1505" data-name="Group 1505">
+          <path id="Path_757" data-name="Path 757" d="M57.115,87.84a20.637,20.637,0,0,0-41.23,0H12.962L10.2,83.389a.952.952,0,0,0-.809-.45H1a.952.952,0,0,0-.809,1.453l2.747,4.429L.189,93.251A.952.952,0,0,0,1,94.7h8.4a.952.952,0,0,0,.809-.45L13,89.743h2.885a20.637,20.637,0,0,0,41.23-1.9ZM8.864,92.8H2.705l1.859-3H10.72Zm-4.3-4.961-1.862-3H8.864l1.859,3Zm31.98,19.687A18.735,18.735,0,0,1,17.812,89.743H21.7a14.845,14.845,0,1,0,0-1.9H17.812a18.735,18.735,0,1,1,18.735,19.687ZM36.5,87.84h-.974a1.366,1.366,0,1,1,.028,1.931l-.028-.028H36.5a.952.952,0,1,0,0-1.9Zm.972,4.078a3.268,3.268,0,1,0-4.078-4.078H29.414a7.154,7.154,0,1,1,0,1.9h3.978A3.268,3.268,0,0,0,37.47,91.918ZM37.451,97.8a9.057,9.057,0,1,0-9.959-9.959H23.6a12.942,12.942,0,1,1,0,1.9h3.889A9.057,9.057,0,0,0,37.451,97.8Z" transform="translate(-0.046 -68.154)" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1508" data-name="Group 1508" transform="translate(9.516 0.005)">
+        <g id="Group_1507" data-name="Group 1507">
+          <rect id="Rectangle_116" data-name="Rectangle 116" width="7.613" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1510" data-name="Group 1510" transform="translate(17.129 6.666)">
+        <g id="Group_1509" data-name="Group 1509">
+          <rect id="Rectangle_117" data-name="Rectangle 117" width="7.613" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1512" data-name="Group 1512" transform="translate(5.71 0.005)">
+        <g id="Group_1511" data-name="Group 1511">
+          <rect id="Rectangle_118" data-name="Rectangle 118" width="1.903" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1514" data-name="Group 1514" transform="translate(3.806 18.085)">
+        <g id="Group_1513" data-name="Group 1513">
+          <rect id="Rectangle_119" data-name="Rectangle 119" width="7.613" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1516" data-name="Group 1516" transform="translate(0 18.085)">
+        <g id="Group_1515" data-name="Group 1515">
+          <rect id="Rectangle_120" data-name="Rectangle 120" width="1.903" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1518" data-name="Group 1518" transform="translate(7.613 39.02)">
+        <g id="Group_1517" data-name="Group 1517">
+          <rect id="Rectangle_121" data-name="Rectangle 121" width="5.71" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1520" data-name="Group 1520" transform="translate(3.806 39.02)">
+        <g id="Group_1519" data-name="Group 1519">
+          <rect id="Rectangle_122" data-name="Rectangle 122" width="1.903" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1522" data-name="Group 1522" transform="translate(19.032 47.585)">
+        <g id="Group_1521" data-name="Group 1521">
+          <rect id="Rectangle_123" data-name="Rectangle 123" width="1.903" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1524" data-name="Group 1524" transform="translate(3.806 55.197)">
+        <g id="Group_1523" data-name="Group 1523">
+          <rect id="Rectangle_124" data-name="Rectangle 124" width="7.613" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+      <g id="Group_1526" data-name="Group 1526" transform="translate(0 55.197)">
+        <g id="Group_1525" data-name="Group 1525">
+          <rect id="Rectangle_125" data-name="Rectangle 125" width="1.903" height="1.903" fill="#61697f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,265 @@
+/*Only in desktop*/
+@media only screen and (min-width: 1000px) {
+  .desktop-d-n {
+    display: none;
+  }
+  .container {
+    width: 1400px;
+  }
+}
+
+/*Only on Mobile*/
+@media only screen and (max-width: 1000px) {
+  .mobile-d-n {
+    display: none;
+  }
+  .navbar .navbar-nav {
+    margin-top: 16vh;
+  }
+  .navbar-collapse:before {
+    background: #182748 !important;
+    opacity: 1;
+  }
+  .auto_width {
+    padding-bottom: 0px;
+  }
+  .navbar-brand img {
+    width: 100px;
+  }
+  .navbar-toggler {
+    margin-top: 5px;
+  }
+  .navbar {
+    margin-bottom: 0px;
+  }
+  .carousel-item img {
+    object-fit: cover;
+  }
+  .carousel-caption {
+    top: 18vh;
+    text-align: left;
+    width: 90% !important;
+  }
+  .carousel-caption .title {
+    font-size: 25px;
+    line-height: 40px;
+    color: #f0e5e1;
+  }
+  .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 8%;
+  }
+  .carousel-control-next,
+  .carousel-control-prev {
+    height: 5%;
+    top: auto;
+    width: 12%;
+    background: #f0e5e1;
+    opacity: 0.5;
+    color: #000;
+    transition: ease all 0.3s;
+  }
+  .carousel-control-prev {
+    left: 8%;
+  }
+  .first_home .col-md-4 {
+    padding: 30px 30px;
+    text-align: center;
+    border-bottom: 1px #000;
+  }
+  .first_home h4 {
+    font-family: Merriweather, serif;
+    font-size: 24px;
+    width: 100%;
+  }
+  .first_home p {
+    width: 100%;
+  }
+  .video_holder iframe {
+    transform: translateX(0px);
+  }
+  .video_holder {
+    padding: 0px;
+  }
+  .video_holder img {
+    width: 100%;
+    object-fit: cover;
+  }
+  .home_third .col-md-6:nth-child(2) {
+    background: #f8f3f1;
+    height: auto;
+    display: block;
+    flex-wrap: wrap;
+    padding: 25px 10px !important;
+    transform: translateX(0px);
+  }
+  .title {
+    font-family: Merriweather, serif;
+    font-size: 32px;
+    font-weight: bolder;
+    line-height: 40px;
+  }
+  .contact_include_general .row {
+    padding: 2% 10px;
+  }
+  #nav_titles .navbar-nav {
+    text-align: center;
+    width: 100%;
+  }
+  #nav_titles .navbar-nav p {
+    text-align: center;
+  }
+  .footer_all_pages {
+    padding: 15% 10px;
+  }
+  .footer_all_pages h2 {
+    margin-top: 20px;
+  }
+  .home_nd h3 {
+    font-size: 27px;
+  }
+  .cover_general h2 {
+    font-size: 25px;
+    line-height: 40px;
+    color: #f0e5e1;
+  }
+  .guarantee_first {
+    margin-top: 0%;
+  }
+  .guarantee_first {
+    padding: 20px 10px;
+  }
+  .guarantee_first img {
+    height: 370px;
+    float: right;
+    z-index: 2;
+    position: relative;
+  }
+  .guar_nd {
+    padding: 4% 7px;
+  }
+  .filterholder {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .filterholder .dropdown {
+    width: 100%;
+    text-align: left;
+    margin: 10px 0px;
+  }
+  .search_filter {
+    color: #000;
+    height: 50px;
+    width: 98%;
+    margin-top: 10px;
+  }
+  .cover_general {
+    height: auto;
+    padding-top: 23vh;
+    padding-bottom: 7vh;
+  }
+  .program_holder_card {
+    width: 100%;
+  }
+  .program_holder_card .card_overlay {
+    width: 100%;
+  }
+  .guarantee_first {
+    margin-top: 0;
+    padding: 20px 15px;
+  }
+  .section_frequently {
+    padding: 4% 15px;
+  }
+  .leverage_agile_section {
+    padding: 15px;
+  }
+  .services_holder_citiz .card_aa {
+    width: 49%;
+  }
+  .home_third .row {
+    align-items: stretch !important;
+  }
+  .section_about_program {
+    padding: 15px;
+  }
+  .benefit_pills {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .benefit_pills .nav-pills {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .benefit_pills .nav-pills .nav-item {
+    width: 48%;
+  }
+  .benefit_pills .tab-content {
+    padding: 10px 5px;
+  }
+  .subscribe_button {
+    width: 90%;
+  }
+  .interested_in_program img {
+    height: 60vh;
+  }
+  .leverage_agile_section,
+  .section_about_program {
+    padding: 40px 15px 0px;
+  }
+  .calc_section .row {
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-right: 0px;
+  }
+  .filter_hold_a {
+    width: 100%;
+  }
+  .filter_hold_a label {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .filter_hold_a select {
+    width: 100%;
+  }
+  .filter_hold_a input {
+    width: 100%;
+  }
+  .filter_hold_a button {
+    width: 98%;
+    margin: 0px;
+    text-align: center;
+    background: white;
+    color: black;
+    padding: 10px;
+  }
+  .filter_hold_a button:before {
+    color: #182748;
+    text-align: center;
+    width: 100% !important;
+  }
+  .filter_hold_a button div {
+    color: #182748 !important;
+    text-align: center;
+    width: 100% !important;
+  }
+  .small_card {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .small_card h5 {
+    width: 100%;
+  }
+  .leverage_double .text_holder {
+    padding: 10% 4%;
+  }
+  .trust_slim {
+    padding: 10% 0;
+    background: rgba(240, 229, 225, 0.521);
+    text-align: center;
+  }
+}
